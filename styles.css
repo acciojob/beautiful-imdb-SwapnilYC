@@ -1,17 +1,22 @@
-#moviePic img{
+#moviePic{
     height: 200px;
     width: 200px;
     opacity:1;
 }
 
-#movieDetail {
+/* #two{
     position: relative;
-}
+    border: 1px solid black;
+    background-color: antiquewhite;
+    width: auto;
+    height: 200px;
+} */
 
-#movieDetail p{
+#movieDetail{
     position: absolute;
     top: auto;
-    width: auto;
+    left:350px;
+    width: 500px;
     text-align: center;
     font-size: inherit;
 }
