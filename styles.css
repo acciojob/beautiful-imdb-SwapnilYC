@@ -1,2 +1,18 @@
+#moviePic img{
+    height: 200px;
+    width: 200px;
+    opacity:1;
+}
 
+#movieDetail {
+    position: relative;
+}
+
+#movieDetail p{
+    position: absolute;
+    top: auto;
+    width: auto;
+    text-align: center;
+    font-size: inherit;
+}
 /* Your CSS Code here. */
